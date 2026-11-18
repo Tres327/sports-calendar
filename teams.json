@@ -1,0 +1,53 @@
+{
+  "_comment": "Colors are used on the web page; in Skylight pick the closest swatch per feed.",
+  "teams": [
+    {
+      "key": "jaguars",
+      "name": "Jacksonville Jaguars",
+      "short": "Jaguars",
+      "color": "#006778",
+      "schedules": [{ "sport": "football", "league": "nfl", "id": 30 }]
+    },
+    {
+      "key": "heat",
+      "name": "Miami Heat",
+      "short": "Heat",
+      "color": "#98002E",
+      "schedules": [{ "sport": "basketball", "league": "nba", "id": 14 }]
+    },
+    {
+      "key": "mavericks",
+      "name": "Dallas Mavericks",
+      "short": "Mavericks",
+      "color": "#00538C",
+      "schedules": [{ "sport": "basketball", "league": "nba", "id": 6 }]
+    },
+    {
+      "key": "gators",
+      "name": "Florida Gators",
+      "short": "Gators",
+      "color": "#FA4616",
+      "schedules": [
+        { "sport": "football", "league": "college-football", "id": 57 },
+        { "sport": "basketball", "league": "mens-college-basketball", "id": 57 }
+      ]
+    },
+    {
+      "key": "clemson",
+      "name": "Clemson Tigers",
+      "short": "Clemson",
+      "color": "#522D80",
+      "schedules": [
+        { "sport": "football", "league": "college-football", "id": 228 },
+        { "sport": "basketball", "league": "mens-college-basketball", "id": 228 }
+      ]
+    },
+    {
+      "key": "fever",
+      "name": "Indiana Fever",
+      "short": "Fever",
+      "color": "#002D62",
+      "schedules": [{ "sport": "basketball", "league": "wnba", "id": 5 }]
+    }
+  ]
+}
